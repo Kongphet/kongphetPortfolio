@@ -3,11 +3,7 @@ import PortfolioContainer from './components/PortfolioContainer.vue';
 </script>
 
 <template>
-  
-<PortfolioContainer/>
-  
+    <PortfolioContainer />
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
